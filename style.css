@@ -1,3 +1,32 @@
+body{
+    background-image: url("media/spacebkgr.jpg");
+}
+
+* {
+    font-family: sans-serif, Arial, Verdana;
+}
+
+h1 {
+    color: #80a0e2;
+    text-align: center;
+}
+
+th {
+    background-color: rgb(31, 31, 31);
+    color: white;
+}
+
+th, td {
+    padding: 15px;
+    text-align: center;
+}
+
+tr:hover {background-color: rgb(71, 71, 71);}
+
+table {
+    width: 100%;
+}
+
 .jup {
     color: #DA861E
 }
